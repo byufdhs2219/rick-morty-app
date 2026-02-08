@@ -1,0 +1,59 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Next.js
+.next/
+out/
+build/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+.env.production.local
+
+# OS
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+*.log
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
+dist/
+
+# Misc
+.claude/
+cleanup_comments.py
+cleanup_inline_comments.py
+
+# Documentation (keep only README.md for GitHub)
+CLAUDE.md
+DOKUMENTASI_LENGKAP.md
+INTERVIEW_QUESTIONS.md
+LIGHTHOUSE_CHECKLIST.md
+LIGHTHOUSE_OPTIMASI_FINAL.md
+OPTIMASI_RENDER_BLOCKING.md
+PANDUAN_INTERVIEW.md
+PANDUAN_LENGKAP.md
+PENJELASAN_KONSEP.md
+
+# Dynamic routes during development
+/app/{characters,character,locations}/
