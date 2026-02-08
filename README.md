@@ -404,10 +404,3 @@ CMD ["npm", "start"]
 - [Apollo Client Docs](https://www.apollographql.com/docs/react/)
 - [Rick and Morty API Docs](https://rickandmortyapi.com/documentation)
 
-## 👤 Author
-
-Dibuat untuk memenuhi Frontend Web Test - MOSTRANS Tech
-
-## 📄 License
-
-MIT License - feel free to use this project for learning purposes.
